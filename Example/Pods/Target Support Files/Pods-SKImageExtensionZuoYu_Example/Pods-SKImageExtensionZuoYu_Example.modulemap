@@ -1,0 +1,6 @@
+framework module Pods_SKImageExtensionZuoYu_Example {
+  umbrella header "Pods-SKImageExtensionZuoYu_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SKImageExtensionZuoYu (0.1.0)
+
+DEPENDENCIES:
+  - SKImageExtensionZuoYu (from `../`)
+
+EXTERNAL SOURCES:
+  SKImageExtensionZuoYu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SKImageExtensionZuoYu: 6200b68ec0836c18ee7e7cd13aa37bd306b57122
+
+PODFILE CHECKSUM: 9bcefb9c7ca29184e783e740bf5fe64b23fb1c69
+
+COCOAPODS: 1.10.1
