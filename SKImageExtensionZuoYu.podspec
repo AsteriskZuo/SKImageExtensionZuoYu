@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint SKImageExtension.podspec' to ensure this is a
+# Be sure to run `pod lib lint SKImageExtensionZuoYu.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SKImageExtensionZuoYu'
   s.version          = '0.1.0'
-  s.summary          = 'SKImageExtension is common test library.'
+  s.summary          = 'SKImageExtensionZuoYu is common test library.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,19 +25,19 @@ Pod::Spec.new do |s|
       * Finally, don't worry about the indent, CocoaPods strips it.
                        DESC
 
-  s.homepage         = 'https://github.com/AsteriskZuo/SKImageExtension'
+  s.homepage         = 'https://github.com/AsteriskZuo/SKImageExtensionZuoYu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yu.zuo' => 'yu.zuo@citylife.com' }
-  s.source           = { :git => 'https://github.com/AsteriskZuo/SKImageExtension.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/AsteriskZuo/SKImageExtensionZuoYu.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'SKImageExtension/Classes/**/*'
+  s.source_files = 'SKImageExtensionZuoYu/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'SKImageExtension' => ['SKImageExtension/Assets/*.png']
+  #   'SKImageExtensionZuoYu' => ['SKImageExtensionZuoYu/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
